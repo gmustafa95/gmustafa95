@@ -7,7 +7,7 @@ I'm a Detail-oriented software developer with a pro-active approach and about a 
 [3]:  https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 [4]:  https://medium.com/@gmustafa95
 
-[![LinkedIn][1]][2]
+[![LinkedIn][1]][2] [![Medium][3]][4]
 
 #### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
